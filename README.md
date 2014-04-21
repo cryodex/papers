@@ -17,6 +17,11 @@ http://crypto.stackexchange.com/questions/3813/how-does-order-preserving-encrypt
 (Flawed) implementation
 https://github.com/Bren2010/caesar/blob/master/opse.coffee
 
+C implementation of hypergeometric distribution
+https://svn.r-project.org/R/trunk/src/nmath/rhyper.c
+
+Fortran implementation of hypergeometric distribution
+
 ###Searchable encryption
 
 (Flawed) implementation
@@ -24,8 +29,16 @@ https://github.com/wanasit/searchable-encryption-js
 
 ###Deterministic encryption
 
-Go implementation
+Go implementation of AES-SIV/CMAC
 https://github.com/jacobsa/crypto
+
+Ada implementation of AES-SIV/CMAC
+https://github.com/cforler/Ada-Crypto-Library/blob/master/src/crypto-symmetric-mac-cmac.adb
+https://github.com/cforler/Ada-Crypto-Library/blob/master/src/crypto-symmetric-mac-cmac.adb
+
+RFCs
+http://tools.ietf.org/rfc/rfc4493.txt
+http://tools.ietf.org/html/rfc5297
 
 ###Additive homomorphic encryption
 
