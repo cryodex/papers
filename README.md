@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/CryptDB/cryptdb/master/doc/notes/668.txt
 (Flawed) implementation
 https://github.com/wanasit/searchable-encryption-js
 
+http://www.slideshare.net/cfrenz/searchable-encryption-systems
+
 ###Deterministic encryption
 
 Go implementation of AES-SIV/CMAC
