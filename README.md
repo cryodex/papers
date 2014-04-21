@@ -21,6 +21,7 @@ C implementation of hypergeometric distribution
 https://svn.r-project.org/R/trunk/src/nmath/rhyper.c
 
 Fortran implementation of hypergeometric distribution
+https://raw.githubusercontent.com/CryptDB/cryptdb/master/doc/notes/668.txt
 
 ###Searchable encryption
 
