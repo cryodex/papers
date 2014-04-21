@@ -30,4 +30,7 @@ https://github.com/jacobsa/crypto
 ###Additive homomorphic encryption
 
 (Flawed) implementation
-https://github.com/symeapp/paillier-js
+http://searchcode.com/codesearch/view/17793309
+
+Python implementation
+https://github.com/mikeivanov/paillier
